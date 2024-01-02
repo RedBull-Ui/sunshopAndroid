@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Sunshop</name>
+    <description>Découvrez notre large gamme de compléments alimentaires</description>
+    <author email="privatK45@gmail.com" href="https://cordova.apache.org">
+        Privat's Labs
+    </author>
+    <content src="http://192.168.11.112:3000/" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-navigation href="*" />
+    <access origin="*" />
+</widget>
